@@ -1,2 +1,0 @@
-0 3 966d691ea1d28ab79943b3fba9eb66b2 s:227:"(function(){var query=document.location.search;if(query&&query.indexOf('preview=true')!==-1){window.name='wp-preview-2825';}
-if(window.addEventListener){window.addEventListener('unload',function(){window.name='';},false);}}());";
