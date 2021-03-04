@@ -1,0 +1,2 @@
+0 3 3a9e162810b5dec6f2c4d3f92f18d416 s:136:"window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}
+gtag('js',new Date());gtag('config','UA-164090154-1');";

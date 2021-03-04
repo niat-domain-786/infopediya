@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//infopediya.com/main-sitemap.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<url>
+		<loc>https://infopediya.com/</loc>
+		<lastmod>2020-11-25T14:57:17+00:00</lastmod>
+		<image:image>
+			<image:loc>https://infopediya.com/wp-content/uploads/2020/05/hero-graphic.png</image:loc>
+			<image:caption><![CDATA[web development]]></image:caption>
+		</image:image>
+		<image:image>
+			<image:loc>https://infopediya.com/wp-content/uploads/2020/09/sm-3.jpg</image:loc>
+			<image:caption><![CDATA[team member]]></image:caption>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://infopediya.com/blog/</loc>
+		<lastmod>2020-12-26T13:58:12+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://infopediya.com/disclaimer/</loc>
+		<lastmod>2020-09-29T13:08:53+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://infopediya.com/contact-us/</loc>
+		<lastmod>2020-09-29T13:08:23+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://infopediya.com/about-us/</loc>
+		<lastmod>2020-09-29T13:05:58+00:00</lastmod>
+	</url>
+	<url>
+		<loc>https://infopediya.com/privacy-policy/</loc>
+		<lastmod>2020-09-29T13:05:18+00:00</lastmod>
+	</url>
+</urlset>

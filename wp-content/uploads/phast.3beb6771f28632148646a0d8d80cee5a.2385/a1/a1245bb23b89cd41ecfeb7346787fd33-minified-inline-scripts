@@ -1,0 +1,3 @@
+0 3 5b7cb65a95361606927c1a958a60c2c0 s:486:"(function(){var urlParser,oldQueryParams,newQueryParams,i;if(parent!==window){return;}
+urlParser=document.createElement('a');urlParser.href=location.href;oldQueryParams=urlParser.search.substr(1).split(/&/);newQueryParams=[];for(i=0;i<oldQueryParams.length;i+=1){if(!/^customize_messenger_channel=/.test(oldQueryParams[i])){newQueryParams.push(oldQueryParams[i]);}}
+urlParser.search=newQueryParams.join('&');if(urlParser.search!==location.search){location.replace(urlParser.href);}})();";

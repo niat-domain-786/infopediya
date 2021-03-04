@@ -1,0 +1,17 @@
+
+---Downloaded files---
+The import files for: agency_free were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://infopediya.com
+Data file = /home4/softwcd9/public_html/infopediya/wp-content/uploads/2020/09/demo-content-import-file_2020-09-29__12-53-14.xml
+Widget file = not defined!
+Customizer file = /home4/softwcd9/public_html/infopediya/wp-content/uploads/2020/09/demo-customizer-import-file_2020-09-29__12-53-14.dat
+Redux files:
+not defined!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---kadence-starter-templates/after_import---
+
